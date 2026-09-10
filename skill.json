@@ -1,0 +1,17 @@
+{
+  "name": "genpark-vector-clock-causal-broadcast-skill",
+  "version": "1.0.0",
+  "description": "Vector clock causality tracking and causal broadcast protocol providing Lamport partial ordering and causality violation detection for agent swarms.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "vector-clocks",
+    "causal-broadcast",
+    "lamport-timestamps",
+    "distributed-consensus",
+    "partial-order"
+  ],
+  "dependencies": []
+}
